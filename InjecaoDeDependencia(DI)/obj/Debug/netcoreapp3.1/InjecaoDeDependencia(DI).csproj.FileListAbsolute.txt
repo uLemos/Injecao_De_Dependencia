@@ -1,0 +1,14 @@
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\bin\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).exe
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\bin\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).deps.json
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\bin\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).runtimeconfig.json
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\bin\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).runtimeconfig.dev.json
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\bin\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).dll
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\bin\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).pdb
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\obj\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).csproj.AssemblyReference.cache
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\obj\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\obj\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).AssemblyInfoInputs.cache
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\obj\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).AssemblyInfo.cs
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\obj\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).csproj.CoreCompileInputs.cache
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\obj\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).dll
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\obj\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).pdb
+C:\Users\fekel\source\repos\InjecaoDeDependencia(DI)\InjecaoDeDependencia(DI)\obj\Debug\netcoreapp3.1\InjecaoDeDependencia(DI).genruntimeconfig.cache
